@@ -1,0 +1,11 @@
+U - untracked
+new file that git doesn't yet track
+
+M - modified
+change in file 
+
+A - staged
+file is ready to be committed
+
+unmodified
+unchanged
